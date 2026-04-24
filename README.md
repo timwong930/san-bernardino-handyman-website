@@ -1,19 +1,18 @@
-# San Bernardino Handyman website draft
+# San Bernardino Handyman website copy refresh
 
-## Business summary
+## Public business info used
+- Business name: San Bernardino Handyman
 - Location: San Bernardino, Inland Empire, CA
-- Public website/profile: https://www.sanbernardinohandyman.org/
-- Service focus: Appliance repairs, Furniture assembly, Junk removal and related local work
+- Phone: 909-455-9830
+- Public site language: home repair help, plumbing, electrical, carpentry, drywall, appliance repair, furniture assembly, junk removal
+- Public quote hook: free quote
 
-## Why this is a good opportunity
-- Public info shows a small local operation with a very general site and a light social presence. A better website can separate the most requested services, add credibility, and make the business easier to find on mobile.
-- Public presence is thin or generic compared with the service area.
-- There is room for a clearer local SEO structure, more trust signals, and a better mobile quote flow.
+## What changed
+- Rewrote the homepage copy to sound like a real customer-facing handyman site.
+- Replaced draft-style and generic filler with clearer service copy.
+- Added stronger hero copy, service descriptions, a simple process section, service area details, FAQ answers, and a direct contact CTA.
+- Kept the claims tied to public information only.
 
-## Suggested outreach / redesign angle
-- Lead with a cleaner homepage, clearer service sections, and a stronger tap-to-call or quote path.
-- Add project photos, FAQs, service-area copy, and testimonials/reviews if available.
-- Keep the copy tightly focused on the jobs customers actually search for.
-
-## Starter site in this repo
-This repo includes a simple responsive static site with a tailored hero, services grid, service-area section, and contact CTA.
+## Files
+- `index.html`
+- `README.md`
